@@ -1,9 +1,8 @@
-<div >
+<div align=center>
 	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjerife&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+  🌈☁️ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjerife&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   <a href="https://www.kaggle.com/jerifate" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a> <a href="https://jerife.github.io" target="_blank"><img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-  
+  ☁️👀
 <!--
 **jerife/jerife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 align=center
