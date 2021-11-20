@@ -5,9 +5,10 @@
   ☁️👀
 <div>	
 	
-### **Welcome to the Artificial Intelligence playground** 🦾
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jerifate/notebook/light)
 
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jerifate/notebook)
+### **Welcome to the Artificial Intelligence playground** 🦾
+	
 <!--	
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jerifate/notebook)
 제 깃허브는  Machine Learning / Deep Learning / Reinforcement Learning 분야의 소스코드르 주로 업로드하며, 
