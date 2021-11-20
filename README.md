@@ -6,7 +6,7 @@
 <div>	
 	
 
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jerifate/notebook)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/jerifate/notebook/light)
 ### **Welcome to the Artificial Intelligence playground** 🦾
 	
 <!--	
