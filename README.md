@@ -1,6 +1,6 @@
 <div align=center>
 	
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=280&section=header&text=Welcome%20to%20the%20Artificial%20Intelligence%20playground%20🦾&fontSize=30&animation=scaleIn)	
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,30&height=280&section=header&text=Welcome%20to%20the%20Artificial%20Intelligence%20playground%20🦾&fontSize=30&animation=scaleIn)	
 	
 
 	
